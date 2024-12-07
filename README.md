@@ -72,10 +72,10 @@ The sign-in page will connect to Firebase when a user tries to sign in, and when
 
 ## Roadmap
 
- - 
- - 
- - 
- - 
+ - Notifications: Notify users about likes, comments, follows, and messages
+ - Reels/Short Videos: Support for short-form video content with audio integration.
+ - Stories: Add ephemeral posts that disappear after 24 hours.
+ - Advertisements: Add ad spaces in the feed or as sponsored posts.
 
  ## Report Issues
 - You can report issues on this project using Github issue.
