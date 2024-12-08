@@ -88,7 +88,6 @@ The sign-in page will connect to Firebase when a user tries to sign in, and when
 
 ## Acknowledgements
 
-- I would like to extend my sincere gratitude to [Webo Pedia] [From UDEMY](https://www.udemy.com/user/webo-pedia-2/) for their invaluable guidance and support throughout this project. Their expertise and encouragement have been instrumental in the successful completion of this work.
-- You can view the certificate of completion [here]().
-- Thank you once again for your mentorship and dedication!
+- I would like to extend my sincere gratitude to [Webo Pedia] [From UDEMY](https://www.udemy.com/user/webo-pedia-2/) for their invaluable guidance and support throughout this project. 
+Their expertise and encouragement have been instrumental in the successful completion of this work.
 - A passion project by [Chirag](www.linkedin.com/in/chirag-singh-148993279)
