@@ -7,7 +7,7 @@
     <img src="https://github.com/SorcererChiragsingh/Project-Instagram-Clone/blob/main/Images/MIT%20License.png" alt="MIT License" />
   </a>
 </h2>
-
+<p> This Project is currently on hold.</p>
 <p>we will build an Instagram clone! This React project has multiple pages: login, sign up, dashboard (to view/like/comment on photos), and user profiles.</p>
 
 <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
